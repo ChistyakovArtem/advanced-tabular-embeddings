@@ -1,0 +1,392 @@
+[
+  {
+    "best_val_metric": 0.8018914461135864,
+    "test_metric": 0.796622633934021,
+    "best_epoch": 99,
+    "train_time_s": 16.766847848892212,
+    "model_name": "MLP",
+    "dataset_name": "california",
+    "seed": 42,
+    "n_params": 4801
+  },
+  {
+    "best_val_metric": 0.7973185777664185,
+    "test_metric": 0.7929114699363708,
+    "best_epoch": 99,
+    "train_time_s": 14.962651491165161,
+    "model_name": "MLP",
+    "dataset_name": "california",
+    "seed": 43,
+    "n_params": 4801
+  },
+  {
+    "best_val_metric": 0.8015417456626892,
+    "test_metric": 0.7964035272598267,
+    "best_epoch": 98,
+    "train_time_s": 14.94166612625122,
+    "model_name": "MLP",
+    "dataset_name": "california",
+    "seed": 44,
+    "n_params": 4801
+  },
+  {
+    "best_val_metric": 0.8065861463546753,
+    "test_metric": 0.8026174902915955,
+    "best_epoch": 24,
+    "train_time_s": 7.499497652053833,
+    "model_name": "EmbMLP-orig-plain",
+    "dataset_name": "california",
+    "seed": 42,
+    "n_params": 20801
+  },
+  {
+    "best_val_metric": 0.8128300309181213,
+    "test_metric": 0.8139644861221313,
+    "best_epoch": 15,
+    "train_time_s": 5.811470985412598,
+    "model_name": "EmbMLP-orig-plain",
+    "dataset_name": "california",
+    "seed": 43,
+    "n_params": 20801
+  },
+  {
+    "best_val_metric": 0.8083903193473816,
+    "test_metric": 0.812630295753479,
+    "best_epoch": 9,
+    "train_time_s": 4.472765207290649,
+    "model_name": "EmbMLP-orig-plain",
+    "dataset_name": "california",
+    "seed": 44,
+    "n_params": 20801
+  },
+  {
+    "best_val_metric": 0.8073928952217102,
+    "test_metric": 0.8059643507003784,
+    "best_epoch": 11,
+    "train_time_s": 5.073452711105347,
+    "model_name": "EmbMLP-orig-sc",
+    "dataset_name": "california",
+    "seed": 42,
+    "n_params": 21313
+  },
+  {
+    "best_val_metric": 0.8122692108154297,
+    "test_metric": 0.8167715072631836,
+    "best_epoch": 18,
+    "train_time_s": 6.175973653793335,
+    "model_name": "EmbMLP-orig-sc",
+    "dataset_name": "california",
+    "seed": 43,
+    "n_params": 21313
+  },
+  {
+    "best_val_metric": 0.8089529871940613,
+    "test_metric": 0.8168448209762573,
+    "best_epoch": 13,
+    "train_time_s": 5.307244062423706,
+    "model_name": "EmbMLP-orig-sc",
+    "dataset_name": "california",
+    "seed": 44,
+    "n_params": 21313
+  },
+  {
+    "best_val_metric": 0.8060256838798523,
+    "test_metric": 0.8107555508613586,
+    "best_epoch": 12,
+    "train_time_s": 5.244781017303467,
+    "model_name": "EmbMLP-orig-sc_af",
+    "dataset_name": "california",
+    "seed": 42,
+    "n_params": 21313
+  },
+  {
+    "best_val_metric": 0.8102713823318481,
+    "test_metric": 0.8146169185638428,
+    "best_epoch": 18,
+    "train_time_s": 6.450344800949097,
+    "model_name": "EmbMLP-orig-sc_af",
+    "dataset_name": "california",
+    "seed": 43,
+    "n_params": 21313
+  },
+  {
+    "best_val_metric": 0.8118147253990173,
+    "test_metric": 0.813640832901001,
+    "best_epoch": 21,
+    "train_time_s": 7.702913045883179,
+    "model_name": "EmbMLP-orig-sc_af",
+    "dataset_name": "california",
+    "seed": 44,
+    "n_params": 21313
+  },
+  {
+    "best_val_metric": 0.7856130599975586,
+    "test_metric": 0.7877674102783203,
+    "best_epoch": 11,
+    "train_time_s": 5.350001335144043,
+    "model_name": "EmbMLP-grid-plain",
+    "dataset_name": "california",
+    "seed": 42,
+    "n_params": 20801
+  },
+  {
+    "best_val_metric": 0.7979278564453125,
+    "test_metric": 0.8026283979415894,
+    "best_epoch": 18,
+    "train_time_s": 6.860450506210327,
+    "model_name": "EmbMLP-grid-plain",
+    "dataset_name": "california",
+    "seed": 43,
+    "n_params": 20801
+  },
+  {
+    "best_val_metric": 0.8030641078948975,
+    "test_metric": 0.8047620058059692,
+    "best_epoch": 25,
+    "train_time_s": 7.948272943496704,
+    "model_name": "EmbMLP-grid-plain",
+    "dataset_name": "california",
+    "seed": 44,
+    "n_params": 20801
+  },
+  {
+    "best_val_metric": 0.7936584949493408,
+    "test_metric": 0.791073203086853,
+    "best_epoch": 15,
+    "train_time_s": 6.073161363601685,
+    "model_name": "EmbMLP-grid-sc",
+    "dataset_name": "california",
+    "seed": 42,
+    "n_params": 21313
+  },
+  {
+    "best_val_metric": 0.7979879975318909,
+    "test_metric": 0.8007946610450745,
+    "best_epoch": 24,
+    "train_time_s": 7.386077642440796,
+    "model_name": "EmbMLP-grid-sc",
+    "dataset_name": "california",
+    "seed": 43,
+    "n_params": 21313
+  },
+  {
+    "best_val_metric": 0.803033173084259,
+    "test_metric": 0.8111647367477417,
+    "best_epoch": 15,
+    "train_time_s": 5.895754337310791,
+    "model_name": "EmbMLP-grid-sc",
+    "dataset_name": "california",
+    "seed": 44,
+    "n_params": 21313
+  },
+  {
+    "best_val_metric": 0.7951146364212036,
+    "test_metric": 0.7959762811660767,
+    "best_epoch": 16,
+    "train_time_s": 6.10553765296936,
+    "model_name": "EmbMLP-grid-sc_af",
+    "dataset_name": "california",
+    "seed": 42,
+    "n_params": 21313
+  },
+  {
+    "best_val_metric": 0.8007189035415649,
+    "test_metric": 0.8039676547050476,
+    "best_epoch": 14,
+    "train_time_s": 5.774348020553589,
+    "model_name": "EmbMLP-grid-sc_af",
+    "dataset_name": "california",
+    "seed": 43,
+    "n_params": 21313
+  },
+  {
+    "best_val_metric": 0.8004680871963501,
+    "test_metric": 0.8011329174041748,
+    "best_epoch": 18,
+    "train_time_s": 6.587414264678955,
+    "model_name": "EmbMLP-grid-sc_af",
+    "dataset_name": "california",
+    "seed": 44,
+    "n_params": 21313
+  },
+  {
+    "best_val_metric": 0.00042134523391723633,
+    "test_metric": -0.0005793571472167969,
+    "best_epoch": 8,
+    "train_time_s": 4.026005983352661,
+    "model_name": "PAFNet-plain-ln",
+    "dataset_name": "california",
+    "seed": 42,
+    "n_params": 785
+  },
+  {
+    "best_val_metric": 0.0008362531661987305,
+    "test_metric": -0.0014601945877075195,
+    "best_epoch": 15,
+    "train_time_s": 5.278332948684692,
+    "model_name": "PAFNet-plain-ln",
+    "dataset_name": "california",
+    "seed": 43,
+    "n_params": 785
+  },
+  {
+    "best_val_metric": 0.0013820528984069824,
+    "test_metric": -0.0030698776245117188,
+    "best_epoch": 32,
+    "train_time_s": 8.024219512939453,
+    "model_name": "PAFNet-plain-ln",
+    "dataset_name": "california",
+    "seed": 44,
+    "n_params": 785
+  },
+  {
+    "best_val_metric": 0.6368738412857056,
+    "test_metric": 0.6135737895965576,
+    "best_epoch": 35,
+    "train_time_s": 10.315218210220337,
+    "model_name": "PAFNet-sc-ln",
+    "dataset_name": "california",
+    "seed": 42,
+    "n_params": 969
+  },
+  {
+    "best_val_metric": 0.6428745985031128,
+    "test_metric": 0.6223598122596741,
+    "best_epoch": 100,
+    "train_time_s": 19.470741033554077,
+    "model_name": "PAFNet-sc-ln",
+    "dataset_name": "california",
+    "seed": 43,
+    "n_params": 969
+  },
+  {
+    "best_val_metric": 0.6950623393058777,
+    "test_metric": 0.6809225082397461,
+    "best_epoch": 92,
+    "train_time_s": 18.825091123580933,
+    "model_name": "PAFNet-sc-ln",
+    "dataset_name": "california",
+    "seed": 44,
+    "n_params": 969
+  },
+  {
+    "best_val_metric": 0.5360050201416016,
+    "test_metric": 0.5073544979095459,
+    "best_epoch": 51,
+    "train_time_s": 17.29011058807373,
+    "model_name": "PAFNet-sc_af-ln",
+    "dataset_name": "california",
+    "seed": 42,
+    "n_params": 969
+  },
+  {
+    "best_val_metric": 0.5460408329963684,
+    "test_metric": 0.5162916779518127,
+    "best_epoch": 96,
+    "train_time_s": 19.570431232452393,
+    "model_name": "PAFNet-sc_af-ln",
+    "dataset_name": "california",
+    "seed": 43,
+    "n_params": 969
+  },
+  {
+    "best_val_metric": 0.671405017375946,
+    "test_metric": 0.6581611037254333,
+    "best_epoch": 95,
+    "train_time_s": 17.94197130203247,
+    "model_name": "PAFNet-sc_af-ln",
+    "dataset_name": "california",
+    "seed": 44,
+    "n_params": 969
+  },
+  {
+    "best_val_metric": 8.338689804077148e-05,
+    "test_metric": -0.009958982467651367,
+    "best_epoch": 34,
+    "train_time_s": 7.288948059082031,
+    "model_name": "PAFNet-plain-noln",
+    "dataset_name": "california",
+    "seed": 42,
+    "n_params": 705
+  },
+  {
+    "best_val_metric": -0.002701282501220703,
+    "test_metric": -0.001989006996154785,
+    "best_epoch": 11,
+    "train_time_s": 3.932478904724121,
+    "model_name": "PAFNet-plain-noln",
+    "dataset_name": "california",
+    "seed": 43,
+    "n_params": 705
+  },
+  {
+    "best_val_metric": -0.0012235641479492188,
+    "test_metric": -0.0039511919021606445,
+    "best_epoch": 6,
+    "train_time_s": 3.292625665664673,
+    "model_name": "PAFNet-plain-noln",
+    "dataset_name": "california",
+    "seed": 44,
+    "n_params": 705
+  },
+  {
+    "best_val_metric": 0.5740113258361816,
+    "test_metric": 0.5411766171455383,
+    "best_epoch": 38,
+    "train_time_s": 8.208900690078735,
+    "model_name": "PAFNet-sc-noln",
+    "dataset_name": "california",
+    "seed": 42,
+    "n_params": 873
+  },
+  {
+    "best_val_metric": 0.5828632116317749,
+    "test_metric": 0.5545600652694702,
+    "best_epoch": 34,
+    "train_time_s": 7.592627048492432,
+    "model_name": "PAFNet-sc-noln",
+    "dataset_name": "california",
+    "seed": 43,
+    "n_params": 873
+  },
+  {
+    "best_val_metric": 0.5730916261672974,
+    "test_metric": 0.5411100387573242,
+    "best_epoch": 44,
+    "train_time_s": 9.135821342468262,
+    "model_name": "PAFNet-sc-noln",
+    "dataset_name": "california",
+    "seed": 44,
+    "n_params": 873
+  },
+  {
+    "best_val_metric": 0.5238351821899414,
+    "test_metric": 0.5054244995117188,
+    "best_epoch": 49,
+    "train_time_s": 9.822055339813232,
+    "model_name": "PAFNet-sc_af-noln",
+    "dataset_name": "california",
+    "seed": 42,
+    "n_params": 873
+  },
+  {
+    "best_val_metric": 0.6364725828170776,
+    "test_metric": 0.6177772283554077,
+    "best_epoch": 50,
+    "train_time_s": 9.79547905921936,
+    "model_name": "PAFNet-sc_af-noln",
+    "dataset_name": "california",
+    "seed": 43,
+    "n_params": 873
+  },
+  {
+    "best_val_metric": 0.530963122844696,
+    "test_metric": 0.5029363036155701,
+    "best_epoch": 50,
+    "train_time_s": 9.742198944091797,
+    "model_name": "PAFNet-sc_af-noln",
+    "dataset_name": "california",
+    "seed": 44,
+    "n_params": 873
+  }
+]
